@@ -62,5 +62,4 @@ Bom devemos baixar o postgres seguindo os seguintes passo:
 15. Entraremos no banco: \c ed;
 16. Agora iremos executar o script digitaremos: \i /var/lib/postgresql/1.CreateTable.sql
 17. Faça o mesmo para os demais o script 6
-18. Podemos executar o comando para ver as tabelas: "\dt *.*"
-19. Com isso você está pronto para inciar os estudos. Boa sorte.
+18. Com isso você está pronto para inciar os estudos. Boa sorte.
