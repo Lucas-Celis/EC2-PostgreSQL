@@ -57,9 +57,10 @@ Bom devemos baixar o postgres seguindo os seguintes passo:
 10. Estou utlizando para estudos os dados deste lugar: wget https://www.datascientist.com.br/engdados/relacional.zip
 11. Vamos descompactar este zip: unzip relacional.zip
 12. Caso queira ver o conteúdo do arquivo apenas digite: cat 1.CreateTable.sql
-13. \list - Para listarmos os bancos existentes
-14. Criaremos o banco: create database ed;
-15. Entraremos no banco: \c ed;
-16. Agora iremos executar o script digitaremos: \i /var/lib/postgresql/1.CreateTable.sql
-17. Faça o mesmo para os demais o script 6
-18. Com isso você está pronto para inciar os estudos. Boa sorte.
+13. Agora entraremos no postgres utilizando: psql
+14. \list - Para listarmos os bancos existentes
+15. Criaremos o banco: create database ed;
+16. Entraremos no banco: \c ed;
+17. Agora iremos executar o script digitaremos: \i /var/lib/postgresql/1.CreateTable.sql
+18. Faça o mesmo para os demais o script 6
+19. Com isso você está pronto para inciar os estudos. Boa sorte.
