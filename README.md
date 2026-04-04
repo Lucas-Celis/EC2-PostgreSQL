@@ -63,4 +63,6 @@ Bom devemos baixar o postgres seguindo os seguintes passo:
 16. Entraremos no banco: \c ed;
 17. Agora iremos executar o script digitaremos: \i /var/lib/postgresql/1.CreateTable.sql
 18. Faça o mesmo para os demais o script 6
-19. Com isso você está pronto para inciar os estudos. Boa sorte.
+19. Com isso você está pronto para inciar os estudos.
+
+Agora irei apresentar os comandos básicos do Postgres para quem quiser treinar. Boa sorte a todos.
