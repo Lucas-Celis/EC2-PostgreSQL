@@ -51,7 +51,7 @@ Bom devemos baixar o postgres seguindo os seguintes passo:
 4. Então copiaremos e colaremos: wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
 5. Atualizar a lista do apt-get: sudo apt-get update
 6. Por fim instalar o postgresql: sudo apt-get -y install postgresql
-7. Agora entraremos no postgres utilizando: sud su - postgres
+7. Agora entraremos no postgres utilizando: sudo su - postgres
 8. Uma sugestão criar um diretório para armazenar os bancos: mkdir relacional
 9. Agora caso criou vamos entrar: cd relacional/
 10. Estou utlizando para estudos os dados deste lugar: wget https://www.datascientist.com.br/engdados/relacional.zip
